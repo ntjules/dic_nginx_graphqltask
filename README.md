@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+![alt ERD](https://github.com/12a1070/GymFit/blob/master/docs/er_diagram.png)
